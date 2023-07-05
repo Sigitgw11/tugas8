@@ -1,0 +1,4 @@
+LINK 
+
+github :https://github.com/Sigitgw11/tugas8
+netlify : https://tugas8sigit.netlify.app/
